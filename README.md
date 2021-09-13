@@ -1,5 +1,5 @@
 # primaApp
-Project created for the Primaju Store.
+Project created to Primaju Store.
 
 - Programming Language: Dart.
 - Framework: Flutter.
